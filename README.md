@@ -1,2 +1,2 @@
-# Orbital
-The Git Hub page for KJS students following my idea that anyone can code
+# OrbitalHub
+A respitory for code tutorials and sharing ideas.
